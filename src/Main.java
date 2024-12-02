@@ -5,10 +5,10 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Entre la largeur: ");
+        System.out.println("Entre la largeur : ");
         double largeur = scanner.nextDouble();
 
-        System.out.println("Entre la longeur: ");
+        System.out.println("Entre la longeur : ");
         double longeur = scanner.nextDouble();
 
         Rectangle rectangle = new Rectangle(longeur, largeur);
