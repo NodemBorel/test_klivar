@@ -32,7 +32,7 @@ public class Rectangle {
     }
 
     public  void displayResultat(){
-        System.out.println("Aire = "+calculeAire());
-        System.out.println("Perimetre = "+calculePerimetre());
+        System.out.println("L'Aire = "+calculeAire());
+        System.out.println("Le Perimetre = "+calculePerimetre());
     }
 }
